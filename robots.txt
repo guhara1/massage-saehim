@@ -19,8 +19,8 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://saehimtherapy.netlify.app/sitemap.xml
-Sitemap: https://saehimtherapy.netlify.app/sitemap-hub.xml
-Sitemap: https://saehimtherapy.netlify.app/sitemap-area.xml
-Sitemap: https://saehimtherapy.netlify.app/sitemap-topic.xml
-Sitemap: https://saehimtherapy.netlify.app/rss.xml
+Sitemap: https://saehimtherapy.pages.dev/sitemap.xml
+Sitemap: https://saehimtherapy.pages.dev/sitemap-hub.xml
+Sitemap: https://saehimtherapy.pages.dev/sitemap-area.xml
+Sitemap: https://saehimtherapy.pages.dev/sitemap-topic.xml
+Sitemap: https://saehimtherapy.pages.dev/rss.xml
